@@ -1,0 +1,9 @@
+calendar_id: 'isabellechen2023@u.northwestern.edu'
+max_results: 10
+event_name: 'meeting-time'
+output_file: 'meeting-time.txt'
+timezone: 'America/New_York'
+
+time_range:
+  start: '2023-10-01T00:00:00-05:00'
+  end: '2023-10-13T23:59:59-05:00'
