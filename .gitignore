@@ -19,3 +19,4 @@ token.json
 
 # Output
 *.txt
+*.yaml
