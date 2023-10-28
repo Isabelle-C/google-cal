@@ -1,5 +1,5 @@
 calendar_id: 'isabellechen2023@u.northwestern.edu'
-max_results: 10
+max_results: 20
 event_name: 'meeting-time'
 output_file: 'meeting-time.txt'
 timezone: 'America/New_York'
